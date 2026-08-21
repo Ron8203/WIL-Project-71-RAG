@@ -15,3 +15,7 @@
 ## Project
 
 Test-Driven Retrieval-Augmented Generation (RAG)
+
+## Link to Trello Board
+https://trello.com/b/W2VvIHqY
+
