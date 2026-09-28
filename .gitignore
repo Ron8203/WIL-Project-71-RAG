@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Generated RAG artifacts
+data/processed/chunks.json
+data/processed/faiss_index/
