@@ -1,0 +1,11 @@
+question,category,answer,correct_refusal,incorrect_answer
+How do I repair the engine in my car?,unsupported_automotive,I cannot answer this question from the available cybersecurity documents.,1,0
+What is the best recipe for chocolate cake?,unsupported_cooking,I cannot answer this question from the available cybersecurity documents.,1,0
+What will the weather be tomorrow?,unsupported_weather,I cannot answer this question from the available cybersecurity documents.,1,0
+How should I lodge my personal income tax return?,unsupported_tax,I cannot answer this question from the available cybersecurity documents.,1,0
+What medication should I take for a headache?,unsupported_health,I cannot answer this question from the available cybersecurity documents.,1,0
+Which stocks should I buy this month?,unsupported_finance,I cannot answer this question from the available cybersecurity documents.,1,0
+How do I fix a leaking kitchen tap?,unsupported_plumbing,I cannot answer this question from the available cybersecurity documents.,1,0
+What vegetables should I plant in spring?,unsupported_gardening,I cannot answer this question from the available cybersecurity documents.,1,0
+Who won the latest AFL match?,unsupported_sports,I cannot answer this question from the available cybersecurity documents.,1,0
+What visa do I need for a holiday in Japan?,unsupported_travel,I cannot answer this question from the available cybersecurity documents.,1,0

@@ -94,6 +94,7 @@ PAGE: {page}
             key = (source, page)
 
             if key not in seen:
+
                 seen.add(key)
 
                 sources.append(
@@ -168,9 +169,27 @@ ANSWER:
 
         answer_text = response.content.strip()
 
+        refusal_phrases = [
+            "i cannot provide",
+            "i can't provide",
+            "i cannot answer",
+            "i can't answer",
+            "i am unable to answer",
+            "i'm unable to answer",
+        ]
+
+        if any(
+            phrase in answer_text.lower()
+            for phrase in refusal_phrases
+        ):
+            answer_text = FALLBACK_RESPONSE
+
         if answer_text == FALLBACK_RESPONSE:
+
             sources = []
+
         else:
+
             sources = self.get_unique_sources(
                 documents
             )
@@ -189,10 +208,15 @@ if __name__ == "__main__":
         "Ask a cybersecurity question: "
     )
 
-    result = rag.answer(question)
+    result = rag.answer(
+        question
+    )
 
     print("\nANSWER:\n")
-    print(result["answer"])
+
+    print(
+        result["answer"]
+    )
 
     if result["sources"]:
 
@@ -202,6 +226,7 @@ if __name__ == "__main__":
             result["sources"],
             start=1
         ):
+
             print(
                 f"{i}. "
                 f"{source['source']} "

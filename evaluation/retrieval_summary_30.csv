@@ -1,0 +1,3 @@
+method,questions,hit_at_1,hit_at_3,mrr_at_3,ndcg_at_3
+BM25,30,0.7,0.8667,0.7722,0.7857
+FAISS,30,0.8,1.0,0.8944,0.9218

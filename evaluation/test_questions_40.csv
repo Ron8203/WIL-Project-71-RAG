@@ -1,0 +1,41 @@
+﻿question,relevant_sources,category,answerable
+How can a small business protect itself from ransomware?,Small business cybersecurity guide (January 2025).pdf;ACSC_Ransomware_Prevention_Guide_05082022_0.pdf,ransomware_prevention,yes
+What should a business do if ransomware infects its devices?,ACSC_Ransomware_Prevention_Guide_05082022_0.pdf,ransomware_response,yes
+How can a small business secure servers against ransomware?,ACSC_Ransomware_Prevention_Guide_05082022_0.pdf,server_security,yes
+Why are software and operating system updates important for ransomware prevention?,ACSC_Ransomware_Prevention_Guide_05082022_0.pdf;Small business cybersecurity guide (January 2025).pdf,updates,yes
+How can backups help a business recover from ransomware?,ACSC_Ransomware_Prevention_Guide_05082022_0.pdf;Small business cybersecurity guide (January 2025).pdf,backups,yes
+How should a business protect accounts used on servers or NAS devices?,ACSC_Ransomware_Prevention_Guide_05082022_0.pdf,server_accounts,yes
+How does multi-factor authentication protect an email account?,Email attacks_Prevention Guide.pdf;Small business cybersecurity guide (January 2025).pdf,authentication,yes
+How can a business reduce the risk of lookalike domain attacks?,Email attacks_Prevention Guide.pdf,domain_protection,yes
+What is SPF used for in email security?,Email attacks_Prevention Guide.pdf,email_authentication,yes
+What is DKIM used for in email security?,Email attacks_Prevention Guide.pdf,email_authentication,yes
+What is DMARC used for in email security?,Email attacks_Prevention Guide.pdf,email_authentication,yes
+How should staff verify suspicious payment or bank-detail change requests received by email?,Email attacks_Prevention Guide.pdf,payment_verification,yes
+Why should employees receive training about email attacks and suspicious messages?,Email attacks_Prevention Guide.pdf;Small business cybersecurity guide (January 2025).pdf,staff_training,yes
+What should I do if my business email account has been compromised?,Email attacks_Emergency Response Guide.pdf,email_incident,yes
+What account security checks should be performed after an email incident?,Email attacks_Emergency Response Guide.pdf,account_recovery,yes
+Who should a business alert after an email account compromise?,Email attacks_Emergency Response Guide.pdf,incident_notification,yes
+When might a business need to send a takedown request after an email attack?,Email attacks_Emergency Response Guide.pdf,takedown,yes
+What reporting steps may be required after a serious business email incident?,Email attacks_Emergency Response Guide.pdf,incident_reporting,yes
+How can employees recognise suspicious phishing messages?,Small business cybersecurity guide (January 2025).pdf;Email attacks_Prevention Guide.pdf,phishing,yes
+How can malware infect a small business device?,Small business cybersecurity guide (January 2025).pdf,malware,yes
+Why should a small business use a password manager?,Small business cybersecurity guide (January 2025).pdf,passwords,yes
+How should a small business manage shared accounts?,Small business cybersecurity guide (January 2025).pdf,accounts,yes
+Why should a small business keep software up to date?,Small business cybersecurity guide (January 2025).pdf,updates,yes
+How should a small business back up important information?,Small business cybersecurity guide (January 2025).pdf,backups,yes
+What should a small business consider when protecting its network?,Small business cybersecurity guide (January 2025).pdf,network_security,yes
+What should a business do before disposing of old devices that contain business data?,Small business cybersecurity guide (January 2025).pdf,device_disposal,yes
+What cyber security risks should a small business consider when using cloud services?,ACSC small business cloud security guides - Executive Overview.pdf,cloud_security,yes
+Why may a small business need staff or an IT provider to manage cloud security controls?,ACSC small business cloud security guides - Executive Overview.pdf,cloud_resourcing,yes
+What security principles from the Essential Eight are relevant to small business cloud security?,ACSC small business cloud security guides - Executive Overview.pdf,essential_eight,yes
+Why should a small business understand its responsibilities when using cloud services?,ACSC small business cloud security guides - Executive Overview.pdf,cloud_responsibility,yes
+How do I repair the engine in my car?,,unsupported_automotive,no
+What is the best recipe for chocolate cake?,,unsupported_cooking,no
+What will the weather be tomorrow?,,unsupported_weather,no
+How should I lodge my personal income tax return?,,unsupported_tax,no
+What medication should I take for a headache?,,unsupported_health,no
+Which stocks should I buy this month?,,unsupported_finance,no
+How do I fix a leaking kitchen tap?,,unsupported_plumbing,no
+What vegetables should I plant in spring?,,unsupported_gardening,no
+Who won the latest AFL match?,,unsupported_sports,no
+What visa do I need for a holiday in Japan?,,unsupported_travel,no
