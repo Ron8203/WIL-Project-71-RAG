@@ -19,6 +19,7 @@ The final prototype is delivered through a **Streamlit web application** and dis
 | s4205433 | Arrvind Sethuraman |
 | s4229902 | Parth Kalsariya |
 | s4214674 | Divyansh Shrimali |
+| s4262764 | Roshak Chinapalli |
 
 ### Trello Board
 
