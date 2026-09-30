@@ -1,4 +1,4 @@
-# WIL Project 71 – Test-Driven RAG
+# WIL Project 71 - Test-Driven RAG
 
 ## Small Business Cybersecurity Assistant
 
@@ -15,10 +15,10 @@ The final prototype is delivered through a **Streamlit web application** and dis
 **Group ID:** 71
 
 | Student ID | Name |
-|---|---|
 | s4143216 | Rohan Chaudhari |
 | s4205433 | Arrvind Sethuraman |
 | s4229902 | Parth Kalsariya |
+| s4214674 | Divyansh Shrimali |
 
 ### Trello Board
 
@@ -491,6 +491,9 @@ pip install -r requirements.txt
 ## 4. Install Ollama and download Llama 3.2
 
 Make sure Ollama is installed.
+If not installed
+install it from the terminal with winget:
+winget install Ollama.Ollama
 
 Check:
 
